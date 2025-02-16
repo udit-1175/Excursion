@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background-color: lightgreen;
+}
+
+a {
+  font-size: 16px;
+  display: block;
+  margin-bottom: 20px;
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+}
+
+.container {
+  text-align: center; /* Centers content */
+}
+
+.camp-image {
+  display: block;
+  margin: 0 auto; /* Centers image */
+}
+
+.icon-container {
+  text-align: center;
+  margin-top: 10px; /* Moves the icon below */
+}
+
+.mobile-icon {
+  width: 50px; /* Adjust icon size */
+  height: auto;
+  display: inline-block;
+}
+
+.copyright {
+  text-align: right; /* Align text to the right */
+  margin-top: 20px;
+  padding-right: 10px;
+  color: gray;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
